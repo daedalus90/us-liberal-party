@@ -1,8 +1,8 @@
-1. (PF1): Favor the granting of freedoms over the denaial of them.
-2. (PF2): Government is a nessasary evil, and corrupting to the individual over time.
----Limit terms
----Build mechanisms to restrain the power of government
-3. (PF3): Purpose and responsibility are nessasary for our citizens.
-4. (PF4): Pragmatism over emotion.
-5. (PF5): Do not fall victim to the *Law Of Triviality*.
-6. (PF6): There is value in all viewpoints.
+# Liberal Party Platform
+1. (PF1): The granting of freedoms is of greater value than removing them.
+1. (PF2): Freedom of expression and the free flow of ideas is paramount.
+1. (PF3): Government is a nessasary evil, and corrupting to the individual over time.
+1. (PF4): Policy should allow for greater freedom of movement and socioeconomic mobility.
+1. (PF5): Personal responsibility is of value to both the individual and society.
+1. (PF6): Pragmatism over idealism.
+1. (PF7): Do not fall victim to the **Law Of Triviality**.
