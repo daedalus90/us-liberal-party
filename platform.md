@@ -1,5 +1,5 @@
 # Liberal Party Platform
-1. (PF1): The granting of freedoms is of greater value than removing them.
+1. (PF1): Absolute freedom is our natural state.
 1. (PF2): Freedom of expression and the free flow of ideas is paramount.
 1. (PF3): Government is a necessary evil.
 1. (PF4): Favor simplicity over complexity.
