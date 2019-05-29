@@ -1,4 +1,4 @@
-# why
+# Liberal Party
 
 If you choose to read a summary or analysis of this; at the very least take the time to read it yourself before drawing conclusions.
 
@@ -14,5 +14,5 @@ We urge to limit those who we hate, and we hate those who we do not understand. 
 
 Like most, I have a gut reaction to news and policy, and frequently after considering my initial thoughts and feelings I find them hypocritical and without basis. I created this for my personal use, to make sense of my political beliefs. This framework is the knife I use to cut up the world. I revise as truths are made clear to me. Take as needed. Forgive.
 
-# platform
+# Platform
 The platform is listed in platform.md in this directory. They are listed in order of significance. The prefixes PF# denote the order in which I wrote them and have no bearing on significance.
