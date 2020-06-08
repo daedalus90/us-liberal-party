@@ -1,3 +1,5 @@
+![Liberal Party](https://github.com/daedalus90/us-liberal-party/blob/master/libpartyheader.jpeg?raw=true "Liberal Party Header")
+
 # Liberal Party
 
 ## TL;DR
