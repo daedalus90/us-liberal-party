@@ -1,5 +1,11 @@
 # Liberal Party
 
+## TL;DR
+The Liberal Party is a new political platform, one that is focused around individual rights, and lessening the role and interference of the government in our lives.
+
+The platform aims to keep people free, ensure the free flow of ideas, and allow for greater socioeconomic movement, among other things. View our full platform here: [Liberal Party Platform](https://github.com/daedalus90/us-liberal-party/blob/master/platform.md)
+
+## About
 If you choose to read a summary or analysis of this; at the very least take the time to read it yourself before drawing conclusions.
 
 Those who editorialize this will change its meaning. Our existence is one filled with classifications and categorizations; created consciously and subconsciously under heavy influence. Perception is a knife we use to cut up the world, and editors make it their job to skillfully wield this knife to cut the world into what they want. 
