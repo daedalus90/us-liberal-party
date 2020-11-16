@@ -2,6 +2,11 @@
 
 # Liberal Party
 
+## Connect
+* [Instagram](https://instagram.com/usliberalparty)
+* [Reddit](https://www.reddit.com/r/USLiberalParty/)
+* [Facebook Page](https://www.facebook.com/US-Liberal-Party-104309941493470/)
+
 ## TL;DR
 The Liberal Party is a new political platform, one that is focused around individual rights, and lessening the role and interference of the government in our lives.
 
