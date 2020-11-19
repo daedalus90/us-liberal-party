@@ -12,7 +12,7 @@ The Liberal Party is a new political platform, one that is focused around indivi
 
 The platform aims to keep people free, ensure the free flow of ideas, and allow for greater socioeconomic movement, among other things.
 
-# Platform
+## Platform
 The platform is listed here [Liberal Party Platform](platform.md). They are listed in order of significance. The prefixes PF# denote the order in which I wrote them and have no bearing on significance.
 
 ## About
