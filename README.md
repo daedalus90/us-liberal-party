@@ -8,7 +8,7 @@
 * [Facebook Page](https://www.facebook.com/US-Liberal-Party-104309941493470/)
 
 ## TL;DR
-The Liberal Party is a new political platform, one that is focused around individual rights, and lessening the role and interference of the government in our lives.
+The Liberal Party is a new political platform, one that is focused on individual rights, and lessening the role and interference of the government in our lives.
 
 The platform aims to keep people free, ensure the free flow of ideas, and allow for greater socioeconomic movement, among other things.
 
